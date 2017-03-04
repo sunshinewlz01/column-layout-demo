@@ -1,0 +1,19 @@
+.wrap-one {
+  .left-one {
+    float: left;
+    width: 20%;
+    height: 100%;
+    background-color: #dcdcdc;
+  }
+  .right-one {
+    float: right;
+    width: 20%;
+    height: 100%;
+    background-color: #ffa500;
+  }
+  .main-one {
+    height: 100%;
+    margin: 0 20%;
+    background-color: #ffc0cb;
+  }
+}

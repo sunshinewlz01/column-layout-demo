@@ -1,0 +1,22 @@
+.wrap04 {
+  display: flex;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  .main04 {
+    width: 50%;
+    height: 100%;
+    background-color: #ffc0cb;
+  }
+  .left04 {
+    flex:1;
+    height: 100%;
+    background-color: #dcdcdc;
+  }
+  .right04 {
+    flex:1;
+    height: 100%;
+    background-color: #ffa500;
+  }
+}

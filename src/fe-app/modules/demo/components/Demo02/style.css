@@ -1,0 +1,24 @@
+.wrap-two {
+  position: relative;
+  .left-two {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 20%;
+    height: 100%;
+    background-color: #dcdcdc;
+  }
+  .right-two {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 20%;
+    height: 100%;
+    background-color: #ffa500;
+  }
+  .main-two {
+    height: 100%;
+    margin: 0 20%;
+    background-color: #ffc0cb;
+  }
+}

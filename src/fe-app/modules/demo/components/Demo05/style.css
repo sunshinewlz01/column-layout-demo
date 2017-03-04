@@ -1,0 +1,31 @@
+.wrap05 {
+  overflow: hidden;
+  .left05 {
+    float: left;
+    margin-left: -30%;
+    width: 50%;
+    height: 100%;
+    .inner-content {
+      margin-left: 60%;
+      background-color: #dcdcdc;
+    }
+  }
+  .main05 {
+    float: left;
+    width: 59%;
+    height: 100%;
+    .inner-content {
+      background-color: #ffc0cb;
+    }
+  }
+  .right05 {
+    float: left;
+    width: 50%;
+    margin-left: -30%;
+    height: 100%;
+    .inner-content {
+      margin-left: 60%;
+      background-color: #ffa500;
+    }
+  }
+}
